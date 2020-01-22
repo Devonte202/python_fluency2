@@ -23,5 +23,3 @@ def valid_contacts(lst):
     
 def contact_names(lst):
     return [i.name for i in lst]
-
-print(find_special(['spec', 'misc', 'bats', 'special']))
